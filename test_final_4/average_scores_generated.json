@@ -1,0 +1,22 @@
+{
+    "6": {
+        "avg_paragraph_length": 24.001011904761906,
+        "avg_sentence_length": 10.921987932742239,
+        "avg_num_errors": 0.5
+    },
+    "8": {
+        "avg_paragraph_length": 37.618131313131315,
+        "avg_sentence_length": 15.027610447610167,
+        "avg_num_errors": 1.05
+    },
+    "10": {
+        "avg_paragraph_length": 52.88097222222221,
+        "avg_sentence_length": 17.44440801237203,
+        "avg_num_errors": 1.55
+    },
+    "12": {
+        "avg_paragraph_length": 44.611666666666665,
+        "avg_sentence_length": 17.871605582822976,
+        "avg_num_errors": 0.05
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "2": {
+        "avg_paragraph_length": 32.166666666666664,
+        "avg_sentence_length": 16.41111111111111,
+        "avg_num_errors": 3.3333333333333335
+    },
+    "3": {
+        "avg_paragraph_length": null,
+        "avg_sentence_length": null,
+        "avg_num_errors": null
+    },
+    "4": {
+        "avg_paragraph_length": 98.36363636363636,
+        "avg_sentence_length": 29.12467532467532,
+        "avg_num_errors": 11.909090909090908
+    },
+    "5": {
+        "avg_paragraph_length": 122.3,
+        "avg_sentence_length": 37.03071428571429,
+        "avg_num_errors": 10.5
+    },
+    "6": {
+        "avg_paragraph_length": 189.76666666666668,
+        "avg_sentence_length": 22.48088223076245,
+        "avg_num_errors": 12.133333333333333
+    },
+    "7": {
+        "avg_paragraph_length": 262.9,
+        "avg_sentence_length": 20.662218451463403,
+        "avg_num_errors": 17.0
+    },
+    "8": {
+        "avg_paragraph_length": 333.43333333333334,
+        "avg_sentence_length": 19.634819937703643,
+        "avg_num_errors": 15.3
+    },
+    "9": {
+        "avg_paragraph_length": 420.43333333333334,
+        "avg_sentence_length": 18.65755004894084,
+        "avg_num_errors": 18.5
+    },
+    "10": {
+        "avg_paragraph_length": 453.1333333333333,
+        "avg_sentence_length": 19.500052851415877,
+        "avg_num_errors": 16.433333333333334
+    },
+    "11": {
+        "avg_paragraph_length": 510.23333333333335,
+        "avg_sentence_length": 19.186286063982365,
+        "avg_num_errors": 19.7
+    },
+    "12": {
+        "avg_paragraph_length": 557.9333333333333,
+        "avg_sentence_length": 19.357604680497694,
+        "avg_num_errors": 17.866666666666667
+    }
+}

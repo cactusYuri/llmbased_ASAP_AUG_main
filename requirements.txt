@@ -1,0 +1,22 @@
+# Core libraries
+numpy
+pandas
+scipy
+scikit-learn
+
+# Deep learning
+torch
+transformers
+
+# NLP libraries
+nltk
+nlpaug
+
+# Data processing
+tqdm
+
+# Visualization
+matplotlib
+
+# Other utilities
+argparse

@@ -1,0 +1,4 @@
+1 test_set
+python3 code/augment.py --input=/Users/Administrator/Documents/python/eda_nlp-master/data/test_set.txt --output=test_set_augmented.txt --num_aug=1 --alpha_sr=0.3 --alpha_rd=0.01 --alpha_ri=0.0 --alpha_rs=0.0
+2 valid_set
+python3 code/augment.py --input=/Users/Administrator/Documents/python/eda_nlp-master/data/valid_set.txt --output=valid_set_augmented.txt --num_aug=1 --alpha_sr=0.2 --alpha_rd=0.01 --alpha_ri=0.0 --alpha_rs=0.0

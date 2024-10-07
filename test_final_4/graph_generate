@@ -1,0 +1,22 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+def plot_cdf(data, label, color):
+    sorted_data = np.sort(data)
+    cdf = np.arange(1, len(sorted_data)+1) / len(sorted_data)
+    plt.plot(sorted_data, cdf, label=label, color=color)
+
+# 示例数据
+orig_paragraph_lengths = [53.0, 90.0, 80.0, 100.0]  # 原数据
+gen_paragraph_lengths = [55.0, 85.0, 75.0, 95.0]    # 生成数据
+
+# 绘制CDF图
+plt.figure()
+plot_cdf(orig_paragraph_lengths, 'Original Data', 'blue')
+plot_cdf(gen_paragraph_lengths, 'Generated Data', 'red')
+plt.xlabel('Paragraph Length')
+plt.ylabel('CDF')
+plt.title('CDF of Paragraph Lengths for Score 6')
+plt.legend()
+plt.grid(True)
+plt.show()

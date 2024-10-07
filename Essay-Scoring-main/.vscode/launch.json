@@ -1,0 +1,31 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "--embedding",
+                "glove",
+                "--embedding_dict",
+                "glove.6B.50d.txt",
+                "--embedding_dim",
+                "50",
+                "--datapath",
+                "./datas2/",
+                "--oov",
+                "embedding",
+                "--prompt_id",
+                "1",
+                "--num_epochs",
+                "1"
+            ]
+        }
+    ]
+}

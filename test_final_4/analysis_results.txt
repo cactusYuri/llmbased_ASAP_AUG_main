@@ -1,0 +1,68 @@
+Reference Texts Average Metrics:
+  Avg. Paragraph Length: 98.36363636363636
+  Avg. Sentence Length: 29.124675324675323
+  Avg. Errors: 11.909090909090908
+  Avg. Error Severity: 0.0
+
+Candidate Texts Average Metrics:
+  Avg. Paragraph Length: 75.76660714285714
+  Avg. Sentence Length: 13.548914457253275
+  Avg. Errors: 10.125
+  Avg. Error Severity: 0.0
+
+Deviation Analysis:
+Comparison 1:
+  Error Deviation: 0.2917
+  Length Deviation: 0.3791
+  Avg Sentence Length Deviation: 0.0273
+
+Comparison 2:
+  Error Deviation: 0.3889
+  Length Deviation: 0.4307
+  Avg Sentence Length Deviation: 0.7863
+
+Comparison 3:
+  Error Deviation: 0.2609
+  Length Deviation: 0.0300
+  Avg Sentence Length Deviation: 0.2583
+
+Comparison 4:
+  Error Deviation: 0.3500
+  Length Deviation: 0.4555
+  Avg Sentence Length Deviation: 0.4352
+
+Comparison 5:
+  Error Deviation: 0.2941
+  Length Deviation: 0.6173
+  Avg Sentence Length Deviation: 0.1771
+
+Comparison 6:
+  Error Deviation: 0.3125
+  Length Deviation: 0.0601
+  Avg Sentence Length Deviation: 0.0345
+
+Comparison 7:
+  Error Deviation: 0.4815
+  Length Deviation: 0.1239
+  Avg Sentence Length Deviation: 0.4444
+
+Comparison 8:
+  Error Deviation: 0.4815
+  Length Deviation: 0.5677
+  Avg Sentence Length Deviation: 0.3018
+
+Comparison 9:
+  Error Deviation: 0.7391
+  Length Deviation: 0.3504
+  Avg Sentence Length Deviation: 0.1253
+
+Comparison 10:
+  Error Deviation: 0.7000
+  Length Deviation: 0.1707
+  Avg Sentence Length Deviation: 0.0332
+
+Comparison 11:
+  Error Deviation: 0.7778
+  Length Deviation: 0.1837
+  Avg Sentence Length Deviation: 0.0697
+
