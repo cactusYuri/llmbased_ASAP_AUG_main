@@ -37,6 +37,7 @@ This project contains code for text augmentation and automated scoring used in t
    python trains.py --embedding glove --embedding_dict glove.6B.50d.txt --datapath ./datas/ --oov embedding --prompt_id 1
    ```
    - Scan the data files in the specified `datapath` directory and use datasets named `train_{method}_augmented.tsv` for training. Then use `dev.tsv` for evaluation and `test.dev` for validation to obtain the optimal values of "QWK", "Pearson", "Spearman" for each `{method}` and the average values across multiple epochs.
+   
 +------------------+------------+------------+------------+------------+------------+------------+
 | Method           | Best       |            |            | Avg        |            |            |
 |                  | QWK        | Pearson    | Spearman   | QWK        | Pearson    | Spearman   |
